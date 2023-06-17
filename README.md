@@ -4,7 +4,7 @@ This game is a simple arcade style game where the goal is to reunite the heart a
 
 I developed this game to learn about Pygame and express my creativity. I had heard a lot about Pygaeme and wanted to give a use to the Heart and Soul cover loop that I made a while back!
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/sQTCFFZhRmc)
 
 # Development Environment
 
