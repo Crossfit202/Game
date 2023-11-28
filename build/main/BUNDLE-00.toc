@@ -1,0 +1,1 @@
+([('main', '/Users/imac/Desktop/Coding/Game/dist/main', 'EXECUTABLE')],)

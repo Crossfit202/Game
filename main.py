@@ -1,8 +1,8 @@
-import pygame
 import os
 import random
 import math
 import sys
+import pygame
 
 WIDTH, HEIGHT = 1000, 1000  # Setting the width and height of the game window
 WIN = pygame.display.set_mode((WIDTH, HEIGHT))  # Creating the game window
